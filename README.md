@@ -39,7 +39,7 @@ The analysis focuses on:
 ## 📈 Key Insights
 
 * Customers with **month-to-month contracts** show higher churn rates
-* Higher **monthly charges** are associated with increased churn
+* Customers with higher monthly charges and month-to-month contracts show significantly higher churn, suggesting pricing sensitivity combined with lack of long-term commitment.
 * Customers with **short tenure** are more likely to leave
 
 ## 🚀 Conclusion
